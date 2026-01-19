@@ -1,16 +1,15 @@
-# my_flutter_app
+# Weather-Forecast-App
 
-A new Flutter project.
+## Информация о студенте
+**ФИО:** Ильин Данил Дмитриевич
+**Группа:** 9-4-PO-22
+Ссылка на макет в Figma:
+https://www.figma.com/design/uhyV8kRUopY0QAx8B4PgEt/Weather-Forecast-App?node-id=2-2214&t=TOmMBuwVf5U6qhx3-1
 
-## Getting Started
+## Описание приложения
 
-This project is a starting point for a Flutter application.
+Weather Forecast App — это мобильное приложение, разработанное на Flutter, предназначенное для получения актуальной информации о погоде в реальном времени. Приложение позволяет пользователям узнавать текущую температуру, погодные условия, вероятность осадков и прогноз на несколько дней вперёд.
 
-A few resources to get you started if this is your first Flutter project:
+Основная проблема, которую решает приложение, — отсутствие удобного и быстрого доступа к достоверной информации о погоде. Weather Forecast App предоставляет простой и наглядный интерфейс, благодаря которому пользователь может быстро получить нужные данные перед выходом из дома или планированием поездки.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Целевая аудитория приложения — широкий круг пользователей, включая студентов, работающих людей и путешественников, которым важно заранее знать погодные условия.
