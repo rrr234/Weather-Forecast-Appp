@@ -1,7 +1,7 @@
 # PassGen
 
 ## Информация о студенте
-**ФИО:** Ильин Данил Дмитриевич
+**ФИО:** Ильин Данил Дмитриевич и Блиндаренко Давид николаевич
 **Группа:** 9-4-PO-22
 
 https://drive.google.com/drive/folders/1QDxrZolpqJExvUEsi7qzMOH0p4LiL6e-?usp=drive_link
